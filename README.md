@@ -1,7 +1,7 @@
 # Phraseit
 
 [![Build
-Status](https://travis-ci.org/nemzes/phraseit.svg?branch=master)](https://travis-ci.org/nemzes/phraseit)
+Status](https://travis-ci.org/croese/phraseit-wordy.svg?branch=master)](https://travis-ci.org/croese/phraseit-wordy)
 
 `phraseit` is a Javascript module for madlibs-style sentence templating. It has
 been forked from [Sentencer](https://github.com/kylestetz/Sentencer), which
