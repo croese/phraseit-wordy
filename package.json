@@ -1,10 +1,10 @@
 {
-  "name": "phraseit",
-  "version": "1.0.2",
-  "description": "Phraseit is a string templating engine for madlibs-style sentence generating. Forked from Sentencer",
+  "name": "phraseit-wordy",
+  "version": "1.1.0",
+  "description": "Phraseit-wordy is a string templating engine for madlibs-style sentence generating. Forked from Phraseit. Now with more words!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nemzes/phraseit.git"
+    "url": "https://github.com/croese/phraseit-wordy.git"
   },
   "scripts": {
     "start": "node index.js",
@@ -26,9 +26,10 @@
     "madlibs",
     "metaphorpsum"
   ],
-  "author": "Nelson Menezes",
+  "author": "Christian Roese",
   "contributors": [
-    "Kyle Stetz"
+    "Kyle Stetz",
+    "Nelson Menezes"
   ],
   "license": "MIT"
 }
